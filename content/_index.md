@@ -80,9 +80,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Administrating the accountant on Wechat platform
+              * Designing pictures
+              * Organizing alumni activities
+
         - title: Lecturer, Programming Assistant
           company: Guangzhou Code Island Information Technology Co.
           company_url: 'mimadao.com'
