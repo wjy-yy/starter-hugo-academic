@@ -25,8 +25,8 @@ publishDate: "2023-05-05T23:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports"
-publication_short: "srep, preprint, under review"
+publication: "Scientific Reports, preprint, under review"
+# publication_short: "srep, preprint, under review"
 
 abstract: During a patient’s disease progression, MRIs scaned in different times need to be registered before and after. However, the location and structure of tissue inside the human body may change with the growth of illnesses, interfering with the physician’s ability to quickly diagnose the progression of the disease. To reach this goal, we proposed a hybrid ViT and convolutional U-net for brain MRI image registration, which achieved a higher dice score than ViT-V-Net and VoxelMorph. In the meantime, we have had an idea of a novel loss function for gray image registration called grad-loss, which concentrates on the difference and gradient at each voxel of the MRI image. Quantitative and qualitative comparison results demonstrate that our model outperforms the previous ViT-based and convolution-based networks and achieved a better dice score of 79.7% in OASIS dataset.
 
@@ -39,9 +39,9 @@ featured: false
 
 links:
 # - name: Custom Link
-#   url: http://example.org
-url_pdf: ""
-url_code: 'https://github.com/wjy-yy/Hybrid-net'
+url: "www.researchsquare.com/article/rs-2898722/v1"
+url_pdf: "https://www.researchsquare.com/article/rs-2898722/v1.pdf?c=1684138824000"
+url_code: "https://github.com/wjy-yy/Hybrid-net"
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

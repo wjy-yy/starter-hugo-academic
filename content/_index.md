@@ -188,6 +188,13 @@ sections:
           organization_url: www.noi.cn
           title: Bronze Medal, top of Bronze list
 
+        - date_end: ''
+          date_start: '2023-05-14'
+          certificate_url: https://board.xcpcio.com/provincial-contest/2023/guangdong
+          description: Guangdong Province Collegiate Programming Contest
+          organization: CCPC
+          organization_url: ccpc.io
+          title: Gold Medal, 3rd place out of 242 teams
     design:
       columns: '2'
   - block: accomplishments

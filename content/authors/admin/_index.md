@@ -36,6 +36,11 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: Wuhan University
+
+        # CET-6 580/710
+        
+        # CCF-CSP 400/500
+
       year: 2020-2024
 
 # Social/Academic Networking
