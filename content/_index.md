@@ -70,6 +70,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant
+          company: hkust(Guangzhou)
+          company_url: 'https://hkust-gz.edu.cn/'
+          company_logo: hkust
+          location: Guangzhou
+          date_start: '2023-07-13'
+          date_end: ''
+          description: ""
+
         - title: Administrator
           company: Bigcherry
           company_url: 'bigcherry.com.cn'
@@ -90,7 +99,7 @@ sections:
           company_logo: logo_mmd
           location: Guangzhou
           date_start: '2021-01-20'
-          date_end: ''
+          date_end: '2023-06-30'
           description: |3-
               Teaching Olympics in Informatics and Programming Competitions.
             
@@ -119,7 +128,7 @@ sections:
         - date_end: ''
           date_start: '2022-10-25'
           # certificate_url: https://github.com/wjy-yy/cpu
-          description: A prize for top students in School of Computer Science, Wuhan University.
+          description: A prize for top students in School of Computer Science, Wuhan University.(Top 5% students)
           organization: WHU
           organization_url: https://www.whu.edu.cn
           title: Shenzhen Stock Exchange Prize(Top 5%)
@@ -127,7 +136,7 @@ sections:
         - date_end: ''
           date_start: '2021-10-25'
           # certificate_url: https://github.com/wjy-yy/cpu
-          description: A prize for top students in Hongyi Honor College, Wuhan University.
+          description: A prize for top students in Hongyi Honor College, Wuhan University.(Top 10% students)
           organization: WHU
           organization_url: https://www.whu.edu.cn
           title: Wang-Guoqi Luo-Jinghua Prize
@@ -195,6 +204,14 @@ sections:
           organization: CCPC
           organization_url: ccpc.io
           title: Gold Medal, 3rd place out of 242 teams
+
+        - date_end: ''
+          date_start: '2023-06-17'
+          certificate_url: https://hyxt.whu.edu.cn
+          description: A prize for top students in Hongyi Honor College, Wuhan University.(Top 1% students)
+          organization: Hongyi
+          organization_url: https://hyxt.whu.edu.cn
+          title: Ramon-Hongyi New Youth Pacemaker
     design:
       columns: '2'
   - block: accomplishments
