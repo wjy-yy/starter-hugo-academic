@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student major in Computer Science
+role: Undergraduate major in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,11 +35,9 @@ interests:
 education:
   courses:
     - course: BSc in Computer Science
-      institution: Wuhan University
-
-        # CET-6 580/710
+      institution: 
+          Wuhan University【IELTS:6.5(5.5)，CET-6:580/710，GPA:3.83/4.00】
         
-        # CCF-CSP 400/500
 
       year: 2020-2024
 
@@ -81,5 +79,9 @@ email: '18371016824@163.com'
 highlight_name: true
 ---
 
-Junyao Wang is a junior undergraduate in Computer School and Hongyi Honor College of Wuhan University. He takes part in ACM-ICPC training and contests, awarding gold medal in Asia regional contest and silver medal in Asia-east continent final. And he attends the lab focusing on biomedical image analysis in Computer School directed by Prof. Feng LIU and Dr. Fei LUO. He has had a program experience since High School for Olympiad in Informatics.
+Junyao Wang is a junior undergraduate in **Computer School and Hongyi Honor College of Wuhan University**. 
+
+He takes part in ACM-ICPC training and contests, awarding **gold medal** in Asia regional contest and silver medal in Asia-east continent final. And he attends the lab focusing on biomedical image analysis in Computer School directed by Prof. Feng LIU and Dr. Fei LUO. He has had a program experience since High School for Olympiad in Informatics.
+
+He is now an intern research assistant in **Hong Kong University of Science and Technology(Guangzhou)**.
 {style="text-align: justify;"}

@@ -79,9 +79,22 @@ sections:
           date_end: ''
           description: ""
 
+        - title: Teaching Assistant
+          company: Wuhan University
+          company_url: 'https://www.whu.edu.cn/'
+          company_logo: whu
+          location: Wuhan
+          date_start: '2022-09-13'
+          date_end: '2023-06-13'
+          description: |2-
+              Teaching assistant of the course Algorithm Design and Analysis.
+              
+              Outstanding TA of Computer School.(9 out of 76 undergraduates, postgraduates and staff TA)
+
+
         - title: Administrator
           company: Bigcherry
-          company_url: 'bigcherry.com.cn'
+          company_url: 'https://bigcherry.com.cn'
           company_logo: Logo_red
           location: Hubei
           date_start: '2020-07-10'
@@ -95,7 +108,7 @@ sections:
 
         - title: Lecturer, Programming Assistant
           company: Guangzhou Code Island Information Technology Co.
-          company_url: 'mimadao.com'
+          company_url: 'https://mimadao.com'
           company_logo: logo_mmd
           location: Guangzhou
           date_start: '2021-01-20'
@@ -178,7 +191,7 @@ sections:
           # certificate_url: https://github.com/wjy-yy/cpu
           description: Hubei Province Collegiate Programming Contest
           organization: CCPC
-          organization_url: ccpc.io
+          organization_url: https://ccpc.io
           title: Gold Medal, Champion out of 98 teams
 
         - date_end: ''
@@ -186,7 +199,7 @@ sections:
           certificate_url: https://board.xcpcio.com/ccpc/7th/guilin
           description: China Collegiate Programming Contest
           organization: CCPC
-          organization_url: ccpc.io
+          organization_url: https://ccpc.io
           title: Bronze Medal
 
         - date_end: ''
@@ -194,7 +207,7 @@ sections:
           certificate_url: https://www.noi.cn/ccf/file/do?fid=mq6t95Q7&attach=n
           description: National Olympiad in Informatics(NOI)
           organization: CCF
-          organization_url: www.noi.cn
+          organization_url: https://www.noi.cn
           title: Bronze Medal, top of Bronze list
 
         - date_end: ''
@@ -207,11 +220,19 @@ sections:
 
         - date_end: ''
           date_start: '2023-06-17'
-          certificate_url: https://hyxt.whu.edu.cn
+          certificate_url: 
           description: A prize for top students in Hongyi Honor College, Wuhan University.(Top 1% students)
           organization: Hongyi
           organization_url: https://hyxt.whu.edu.cn
           title: Ramon-Hongyi New Youth Pacemaker
+
+        - date_end: ''
+          date_start: '2023-07-17'
+          certificate_url: https://cs.whu.edu.cn/info/1074/33771.htm
+          description: Teaching assistant of the course Algorithm Design and Analysis.(9 out of 76 undergraduates, postgraduates and staff TA)
+          organization: WHUCS
+          organization_url: https://cs.whu.edu.cn
+          title: Outstanding teaching assistant of Computer School in Wuhan University
     design:
       columns: '2'
   - block: accomplishments
@@ -370,7 +391,7 @@ sections:
       text: |-
         Welcome to cantact me via the email.
       # Contact (add or remove contact options as necessary)
-      email: wjyyy1@126.com
+      email: wjyyy1@whu.edu.cn
       phone: +86 18371016824
       wechat: owjyyy
       # appointment_url: 'https://calendly.com'
