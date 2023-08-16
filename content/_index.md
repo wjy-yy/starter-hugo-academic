@@ -71,13 +71,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: hkust(Guangzhou)
+          company: HKUST(Guangzhou)
           company_url: 'https://hkust-gz.edu.cn/'
           company_logo: hkust
           location: Guangzhou
           date_start: '2023-07-13'
           date_end: ''
-          description: ""
+          description: Supervisor： Hao LIU
 
         - title: Teaching Assistant
           company: Wuhan University
@@ -138,6 +138,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+          date_start: '2023-08-14'
+          # certificate_url: https://github.com/wjy-yy/cpu
+          description: China Computer Federation(CCF) awards 100 collegiates per year for their performance in study and research. (Recommended in Wuhan University, to be announced in September by CCF)
+          organization: CCF
+          organization_url: https://ccf.org.cn
+          title: CCF Elite Collegiate Award(to be announced in September, 2023)
+
         - date_end: ''
           date_start: '2022-10-25'
           # certificate_url: https://github.com/wjy-yy/cpu
@@ -221,7 +229,7 @@ sections:
         - date_end: ''
           date_start: '2023-06-17'
           certificate_url: 
-          description: A prize for top students in Hongyi Honor College, Wuhan University.(Top 1% students)
+          description: A prize for top students in Hongyi Honor College, Wuhan University. (Top 1% students)
           organization: Hongyi
           organization_url: https://hyxt.whu.edu.cn
           title: Ramon-Hongyi New Youth Pacemaker
@@ -229,7 +237,7 @@ sections:
         - date_end: ''
           date_start: '2023-07-17'
           certificate_url: https://cs.whu.edu.cn/info/1074/33771.htm
-          description: Teaching assistant of the course Algorithm Design and Analysis.(9 out of 76 undergraduates, postgraduates and staff TA)
+          description: Teaching assistant of the course Algorithm Design and Analysis. (9 out of 76 undergraduates, postgraduates and staff TA)
           organization: WHUCS
           organization_url: https://cs.whu.edu.cn
           title: Outstanding teaching assistant of Computer School in Wuhan University

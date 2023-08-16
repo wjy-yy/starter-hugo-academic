@@ -83,5 +83,5 @@ Junyao Wang is a junior undergraduate in **Computer School and Hongyi Honor Coll
 
 He takes part in ACM-ICPC training and contests, awarding **gold medal** in Asia regional contest and silver medal in Asia-east continent final. And he attends the lab focusing on biomedical image analysis in Computer School directed by Prof. Feng LIU and Dr. Fei LUO. He has had a program experience since High School for Olympiad in Informatics.
 
-He is now an intern research assistant in **Hong Kong University of Science and Technology(Guangzhou)**.
+He is now an intern research assistant in **The Hong Kong University of Science and Technology(Guangzhou)**.
 {style="text-align: justify;"}
