@@ -395,7 +395,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: <a href="https://clustrmaps.com/site/1bw6i"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Nzpmu1koSSwgTNAs_1peOuwUZGr9ELLubv47jBfsj-Q&cl=ffffff" /></a>
+      subtitle: <a href='https://clustrmaps.com/site/1bw6i'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=Nzpmu1koSSwgTNAs_1peOuwUZGr9ELLubv47jBfsj-Q'/></a>
       text: |-
         Welcome to cantact me via the email.
       # Contact (add or remove contact options as necessary)
