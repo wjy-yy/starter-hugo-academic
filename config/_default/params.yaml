@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Junyao Wang. This work is licensed under {license}'
+    notice: '© {year} Junyao Wang. This work is licensed under {license}. [鄂ICP备2023015688号](http://beian.miit.gov.cn/)'
     license:
       enable: true
       allow_derivatives: false

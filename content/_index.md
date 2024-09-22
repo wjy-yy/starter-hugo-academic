@@ -70,14 +70,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Administrative Assistant
+          company: The Hong Kong Polytechnic University
+          company_url: 'https://www.polyu.edu.hk/'
+          company_logo: polyu
+          location: Hong Kong SAR
+          date_start: '2023-10-11'
+          date_end: '2024-02-09'
+          description: Supervisor： Jieming SHI
+
         - title: Research Assistant
           company: HKUST(Guangzhou)
           company_url: 'https://hkust-gz.edu.cn/'
           company_logo: hkust
           location: Guangzhou
           date_start: '2023-07-13'
-          date_end: ''
-          description: Supervisor： Hao LIU
+          date_end: '2023-10-10'
+          description: |2-
+              Supervisor： Hao LIU
+
+              Research on LLM attack and prompt learning.
 
         - title: Teaching Assistant
           company: Wuhan University
@@ -85,12 +97,20 @@ sections:
           company_logo: whu
           location: Wuhan
           date_start: '2022-09-13'
-          date_end: '2023-06-13'
+          date_end: '2024-06-13'
           description: |2-
-              Teaching assistant of the course Algorithm Design and Analysis.
+              Teaching assistant of the course Algorithm Design and Analysis / Data Structure.
               
               Outstanding TA of Computer School.(9 out of 76 undergraduates, postgraduates and staff TA)
 
+        - title: Lecturer
+          company: Walnut Co.
+          company_url: 'https://hetao101.com'
+          company_logo: hetao
+          location: Beijing
+          date_start: '2024-09-20'
+          date_end: ''
+          description: Teaching Olympics in Informatics and Programming Competitions(CCF CSP-J/S).
 
         - title: Administrator
           company: Bigcherry
@@ -139,12 +159,28 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2024-06-14'
+          # certificate_url: https://www.ccf.org.cn/Awards/Awards/2023-08-26/794973.shtml
+          description: Outstanding Graduate Student in Wuhan University
+          organization: WHU
+          organization_url: https://www.whu.edu.cn
+          title: Outstanding Graduate Student
+
+        - date_end: ''
+          date_start: '2023-11-14'
+          # certificate_url: https://www.ccf.org.cn/Awards/Awards/2023-08-26/794973.shtml
+          description: Scholarship donated by Lei-Jun
+          organization: WHUCS
+          organization_url: https://cs.whu.edu.cn
+          title: Lei-Jun Computer Science Scholarship
+
+        - date_end: ''
           date_start: '2023-08-14'
-          # certificate_url: https://github.com/wjy-yy/cpu
-          description: China Computer Federation(CCF) awards 100 collegiates per year for their performance in study and research. (Recommended in Wuhan University, to be announced in September by CCF)
+          certificate_url: https://www.ccf.org.cn/Awards/Awards/2023-08-26/794973.shtml
+          description: China Computer Federation(CCF) awards 100 collegiates per year for their performance in study and research. (Recommended in Wuhan University)
           organization: CCF
           organization_url: https://ccf.org.cn
-          title: CCF Elite Collegiate Award(to be announced in September, 2023)
+          title: CCF Elite Collegiate Award
 
         - date_end: ''
           date_start: '2022-10-25'

@@ -14,21 +14,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate major in Computer Science
+role: PhD student major in Big Data Analysis
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University
-    url: https://www.whu.edu.cn/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data mining, graph theory and database.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Bioinformatics
-  - Image processing
+  - Graph theory
+  - Database
   - Data mining
 
 # Education to show in About widget
@@ -37,9 +36,12 @@ education:
     - course: BSc in Computer Science
       institution: 
           Wuhan University【IELTS:6.5(5.5)，CET-6:580/710，GPA:3.83/4.00】
-        
 
       year: 2020-2024
+    - course: PhD student
+      institution:
+          The Hong Kong Polytechnic University
+      year: 2024-2028
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,15 +75,17 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '18371016824@163.com'
+email: 'junya.wang@connect.polyu.hk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Junyao Wang is a junior undergraduate in **Computer School and Hongyi Honor College of Wuhan University**. 
+Junyao Wang is a PhD student in **Department of Computing, The Hong Kong Polytechnic University**. He obtained Bachelor of Engineering in **Computer School and Hongyi Honor College of Wuhan University**. 
 
-He takes part in ACM-ICPC training and contests, awarding **gold medal** in Asia regional contest and silver medal in Asia-east continent final. And he attends the lab focusing on biomedical image analysis in Computer School directed by Prof. Feng LIU and Dr. Fei LUO. He has had a program experience since High School for Olympiad in Informatics.
+He took part in ACM-ICPC training and contests, awarding **gold medal** in Asia regional contest and silver medal in Asia-east continent final. And he attended the lab focusing on biomedical image analysis in Computer School directed by Prof. Feng LIU and Dr. Fei LUO. He has had a program experience since High School for Olympiad in Informatics.
 
-He is now an intern research assistant in **The Hong Kong University of Science and Technology(Guangzhou)**.
+He has been an intern research assistant in **The Hong Kong University of Science and Technology(Guangzhou)** and a research administrative assistant in **The Hong Kong Polytechnic University**. And he is now at a PhD program in The Hong Kong Polytechnic University since 2024.
+
+He serves as a TA of **Design and analysis of algorithm(COMP3011)**.
 {style="text-align: justify;"}
